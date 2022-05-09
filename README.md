@@ -1,4 +1,6 @@
-基于[TelegramBots]('https://github.com/rubenlagus/TelegramBots)源码修改
+## Telegram 电报群发（飞机群发，TG 群发） + 机器人（Telegram Bot 、TG Bot）
+
+## 基于[TelegramBots]('https://github.com/rubenlagus/TelegramBots)源码修改
 
 ## 申明
    仅使用于学习，勿用不正规渠道。合法合规
